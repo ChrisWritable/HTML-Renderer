@@ -164,6 +164,6 @@ namespace TheArtOfDev.HtmlRenderer.Core.Utils
         /// <summary>
         /// Default font used for the generic 'serif' family
         /// </summary>
-        public const string DefaultFont = "Segoe UI";
+        public const string DefaultFont = "Arial";
     }
 }
